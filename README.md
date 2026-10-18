@@ -5,4 +5,13 @@
 </picture>
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 31 December 1969 - To: 18 October 2026
+
+Total Time: 0 hrs 0 mins
+
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
