@@ -2,7 +2,7 @@
 <b>👋 hey, i'm eric!</b>
 <br />
 <br />
-I study Computer Engineering at the University of Waterloo. I love meeting new people, so feel free to reach out :)
+I study Computer Engineering at the University of Waterloo.<br />I love meeting new people, so feel free to reach out :)
 
 <br />
 <br />
