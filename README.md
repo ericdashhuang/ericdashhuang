@@ -3,11 +3,8 @@
 <br />
 <br />
 I study Computer Engineering at the University of Waterloo.<br />I love meeting new people, so feel free to reach out :)
-
 <br />
 <br />
-<br />
-
 <a href="https://erichuang.app">[Website]</a><span>&ensp;</span><a href="https://www.linkedin.com/in/erichuang-uw/">[LinkedIn]</a><span>&ensp;</span><a href="https://x.com/ericsmthhuang">[X]</a><span>&ensp;</span><a href="mailto:erichu8428@gmail.com">[Email]</a>
 </div>
 <br />
