@@ -1,13 +1,22 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ericdashhuang/ericdashhuang/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ericdashhuang/ericdashhuang/output/github-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ericdashhuang/ericdashhuang/output/github-snake.svg" />
-</picture>
+<div align="center">
+<b>👋 hey, i'm eric!</b>
+<br />
+<br />
+I study Computer Engineering at the University of Waterloo.
+
+<br />
+<br />
+<br />
+
+<a href="https://erichuang.app">[Website]</a><span>&ensp;</span><a href="https://www.linkedin.com/in/erichuang-uw/">[LinkedIn]</a><span>&ensp;</span><a href="mailto:erichu8428@gmail.com">[Email]</a>
+</div>
+<br />
+<br />
+<br />
 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 October 2026 - To: 18 October 2026
 
 Total Time: 167 hrs 10 mins
 
