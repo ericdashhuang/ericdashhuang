@@ -16,7 +16,7 @@ I study Computer Engineering at the University of Waterloo.<br />I love meeting 
 
 <!--START_SECTION:waka-->
 
-```txt
+```rust
 Total Time: 167 hrs 10 mins
 
 Python       105 hrs 25 mins       ███████████████▓░░░░░░░░░   63.06 %
