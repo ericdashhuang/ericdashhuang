@@ -17,7 +17,7 @@ I study Computer Engineering at the University of Waterloo.<br />I love meeting 
 Total Time: 168 hrs 10 mins
 
 Python       105 hrs 40 mins       ███████████████▓░░░░░░░░░   62.83 %
-C++          19 hrs 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Cpp          19 hrs 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
 Html         10 hrs 29 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
 CSS          9 hrs 58 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
 Markdown     7 hrs 3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
