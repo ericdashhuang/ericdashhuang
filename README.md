@@ -14,13 +14,13 @@ I study Computer Engineering at the University of Waterloo.<br />I love meeting 
 <!--START_SECTION:waka-->
 
 ```ocaml
-Total Time: 161 hrs 24 mins
+Total Time: 161 hrs 20 mins
 
-Python       97 hrs 52 mins        ███████████████░░░░░░░░░░   60.64 %
-Cpp          19 hrs 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Python       97 hrs 52 mins        ███████████████░░░░░░░░░░   60.66 %
+C++          19 hrs 59 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
 Html         10 hrs 29 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
 CSS          9 hrs 58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
-Markdown     7 hrs 26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+Markdown     7 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
 Javascript   5 hrs 0 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 Typescript   5 hrs 0 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 %
 C            4 hrs 58 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
